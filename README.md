@@ -1,8 +1,8 @@
 Table S2. Summary of accessions.
 
-Table S3. Seed oil content (SOC) of 505 materials grown in eight environments.
+Table S9. Seed oil content (SOC) of 505 materials grown in eight environments.
 
-Table S4. Seed oil content of 50 materials grown in WH and EZ in three different planting dates.
+Table S10. Seed oil content of 50 materials grown in WH and EZ in three different planting dates.
 
 Table S11. Weather data of eight places for searching for the environmental index. 
 
@@ -12,4 +12,4 @@ Table S13. Weather data for the identification of optimal planting dates in pred
 
 Table S14. Weather data in the empirical environment.
 
-Table S15. Weather data for the identification of optimal haplotypes across planting sites and time periods.
+Table S16. Weather data for the identification of optimal haplotypes across planting sites and time periods.
